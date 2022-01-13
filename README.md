@@ -2,6 +2,10 @@
 
 **Based on Maximilian Schwarzmuller Tutorial on Youtube.**
 
+## Try it live:
+
+[https://meetup-app-vgy.pages.dev/](https://meetup-app-vgy.pages.dev/)
+
 ## What is learned:
 
 1. React Routing.
